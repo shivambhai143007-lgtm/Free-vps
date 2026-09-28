@@ -1,0 +1,24 @@
+{
+  "servers": {
+    "Host": {
+      "name": "Host",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "\ud835\udc12\u029c\u1d00\u1d18\u1d18\u0274\u1d0f-\ud835\udc02\u1d0f\u1d05\u1d07\ud835\udc31-vip-vip\u00b2\u00b2\u00b2-host-bot.py",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-09-28T00:58:02.130693"
+    }
+  },
+  "users": {},
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "shappno",
+    "site_name": "SHAPPNO VPS",
+    "auto_restart_interval": 300
+  }
+}
